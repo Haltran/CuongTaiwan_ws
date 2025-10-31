@@ -51,7 +51,7 @@
             <parameters>$(find myrobot)/config/ros2_controllers.yaml</parameters>
             <left_joint>LD_joint</left_joint>
             <right_joint>RD_joint</right_joint>
-            <wheel_separation>0.5</wheel_separation>
+            <wheel_separation>0.4</wheel_separation>
             <wheel_diameter>0.1</wheel_diameter>
 
             <max_wheel_torque>96.25</max_wheel_torque>

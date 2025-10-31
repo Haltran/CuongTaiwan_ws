@@ -84,7 +84,7 @@ def generate_launch_description():
         spawn_entity_node,
         rviz_node,
         robot_state_publisher_node,
-        # joint_state_publisher_node,
+        joint_state_publisher_node,
 
     ])
 
